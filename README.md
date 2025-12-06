@@ -3,7 +3,7 @@
 
 ***About me***
 
-Nowadays, I am a Software Developer student at Terciario Urquiza, Rosario, Santa Fe. I have knowledge of many programming languages. I love to learn and build something new, productive, innovative and creative.
+I am Software Developer. I have knowledge of many programming languages. I love to learn and build something new, productive, innovative and creative.
 - 👨‍💻​ I’m currently learning...
   - Angular.js
   - Astro.js
