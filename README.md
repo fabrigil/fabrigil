@@ -3,12 +3,12 @@
 
 ***About me***
 
-I am Software Developer. I have knowledge of many programming languages. I love to learn and build something new, productive, innovative and creative.
+I'm a Software Developer. I have knowledge of many programming languages. I love to learn and build something new, productive, innovative and creative.
 - 👨‍💻​ I’m currently learning...
   - Angular.js
   - Astro.js
 - 🚀 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help.<br>
+- ✔ Ask me about anything, I'm happy to help.<br>
 - Outside tech, I love to 👨‍👩‍👧‍👦 spend time with my family and friends, 🎾 play paddle tennis, 🖥️ play computer games, and 🎵 listen to music in english.
 - 📫 Reach out to me at: <a href="fabriziog2k05@gmail.com">fabriziog2k05@gmail.com</a>
 ## My Skills Include
